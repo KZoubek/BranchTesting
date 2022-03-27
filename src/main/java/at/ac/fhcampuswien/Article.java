@@ -6,6 +6,8 @@ public class Article {
 
     //comment melii
 
+    //test comment
+
     //Kommentar Kalo
 
     private String author;
