@@ -14,14 +14,14 @@ public class AppController {
     }
 
     public int getArticleCount() {
-        //test
+        return articles;
     }
     public List<Article> getArticles(){
-        //test
+        return articles;
     }
 
     public List<Article> getTopHeadlinesAustria() {
-        //test
+        return articles;
     }
 
     public List<Article> getAllNewsBitcoin() {
@@ -29,7 +29,7 @@ public class AppController {
     }
 
     protected static List<Article> filterList(String query, List<Article> articles) {
-        //test
+       return articles;
     }
 
     private static List<Article> generateMockList() {
