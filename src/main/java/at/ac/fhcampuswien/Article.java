@@ -3,6 +3,7 @@ package at.ac.fhcampuswien;
 import java.util.List;
 
 public class Article {
+    // Comment from Lukas in Daniel's branch
     //commend meli
 
     private String author;
