@@ -5,7 +5,7 @@ import java.util.List;
 
 public class AppController {
     private List<Article> articles;
-
+//Hallo
     public AppController() {
     }
 
