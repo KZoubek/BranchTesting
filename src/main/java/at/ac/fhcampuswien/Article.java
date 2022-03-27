@@ -7,6 +7,10 @@ public class Article {
     //comment melii
 
     //Hallo This is a Test Ledl Lukas
+    //test comment
+
+    //Kommentar Kalo
+
     private String author;
     private String title;
 
