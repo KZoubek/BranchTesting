@@ -13,6 +13,7 @@ public class Menu {
 
     private void handleInput(String input) {
         //test
+        //test
     }
 
     private void getArticleCount(AppController controller) {
