@@ -14,7 +14,8 @@ public class AppController {
     }
 
     public int getArticleCount() {
-        return articles;
+        int count = 0;
+        return count;
     }
     public List<Article> getArticles(){
         return articles;
